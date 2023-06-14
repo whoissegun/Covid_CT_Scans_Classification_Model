@@ -46,4 +46,4 @@ Feel free to explore and modify the code to fit your specific requirements.
 
 Acknowledgments
 The dataset used in this project is sourced from Kaggle.
-The implementation of the CNN model and training process is inspired by the guidance from mrdbourke/pytorch-deep-learning.
+The implementation of the model and training process is inspired by the guidance from mrdbourke/pytorch-deep-learning.
